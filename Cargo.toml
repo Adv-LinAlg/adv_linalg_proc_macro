@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Eric Ovenden <eric2ovenden@gmail.com>"]
 
 categories = ["development-tools::procedural-macro-helpers"]
-keywords = ["procedral macros", "proc", "macro"]
+keywords = ["procedural", "proc", "macro"]
 
 description = "Procedral macros for usage within Adv_LinAlg_Lib"
 documentation = "https://docs.rs/adv_linalg_proc_macro"
