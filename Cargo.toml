@@ -9,9 +9,9 @@ keywords = ["procedral macros", "proc", "macro"]
 
 description = "Procedral macros for usage within Adv_LinAlg_Lib"
 documentation = "https://docs.rs/adv_linalg_proc_macro"
+repository = "https://github.com/Adv-LinAlg/adv_linalg_proc_macro/tree/352903001a5d419134654f564d0ed8d75ded74aa"
 
 license = "MIT OR Apache-2.0"
-license-file = "LICENSE.md"
 include = [
     "/src",
     "LICENSE.md",
