@@ -1,6 +1,6 @@
 [package]
 name = "adv_linalg_proc_macro"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Eric Ovenden <eric2ovenden@gmail.com>"]
 
@@ -26,5 +26,5 @@ proc-macro = true
 
 [dependencies]
 proc-macro2 = "1.0"
-syn = { version="2.0", features=["full", "extra-traits"] }
+venial = "0.5.0"
 quote = "1.0"
